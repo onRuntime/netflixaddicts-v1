@@ -1,0 +1,23 @@
+{
+  "name": "netflixaddicts",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/onRuntime/netflixaddicts.git",
+  "author": "[3DX900, ChocolateIG]",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onRuntime/netflixaddicts/issues"
+  },
+  "homepage": "https://github.com/onRuntime/netflixaddicts#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-jwt": "^6.0.0",
+    "express-session": "^1.17.1"
+  }
+}
